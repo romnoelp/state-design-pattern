@@ -1,3 +1,6 @@
+
+![Petracorta, Romnoel](https://github.com/user-attachments/assets/bb8cb3ab-fd7d-4a87-91ee-37c6d45bd4b8)
+
 A bank needs to manage different states of customer accounts, including active, suspended, and closed. Each state has specific rules and restrictions regarding allowed operations, and accounts have associated attributes like account number and balance.  
 Active accounts: Allow deposits and withdrawals.  
 Suspended accounts: Disallow deposits and withdrawals transactions, but allow viewing account information.  
